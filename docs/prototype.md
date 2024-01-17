@@ -6,7 +6,7 @@ It is *not* fully built out and will likely change dramatically as the actual sp
 ```text
 Express : Activity (actor is conveying something to an audience)
     Object -> Object | Link (what is being expressed)
-    Target -> Object | Link (who is it expressed to)
+    Target -> Object | Link (what this expression is about)
 
 Mood : Object (a feeling or emotion)
 Vocalization : Object (a non-verbal sound)
